@@ -131,7 +131,7 @@ wings:
           blockType: QUARTZ_BLOCK    
       
   Frost:
-    showWhenMoving: false
+    showWhenMoving: true
     whitelistedWorlds:
       - "all"
   
@@ -194,7 +194,7 @@ wings:
           
 
   Angel:
-    showWhenMoving: false
+    showWhenMoving: true
     whitelistedWorlds:
       - "all"
   
@@ -257,7 +257,7 @@ wings:
         
         
   BloodHound:
-    showWhenMoving: false
+    showWhenMoving: true
     whitelistedWorlds:
       - "all"
   
@@ -280,7 +280,7 @@ wings:
       distanceBetweenParticles: 0.2
       wingTimer: 3
       
-      wingAnimation: false
+      wingAnimation: true
       wingFlapSpeed: 4
       
       startOffset: 20
@@ -338,7 +338,7 @@ wings:
           
           
   Wisdom:
-    showWhenMoving: false
+    showWhenMoving: true
     whitelistedWorlds:
       - "all"
   
@@ -361,7 +361,7 @@ wings:
       distanceBetweenParticles: 0.2
       wingTimer: 6
       
-      wingAnimation: false
+      wingAnimation: true
       wingFlapSpeed: 4
       
       startOffset: 20
